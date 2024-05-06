@@ -1,0 +1,23 @@
+H1 {
+  color: #000080;
+  font-size: 200%;
+  font-family: Arial, Verdana, sans-serif;
+  text-align: left;
+  padding:20px
+}
+.card{
+  display: flex;
+}
+.card-block{
+  height: 50px;
+}
+P {
+  border-color: #f5eded;
+    border-style: solid;
+    border-width: 1px 1px 1px;
+    overflow: auto;
+    padding: 19px;
+    background: #b6b6e0;
+    border: 2px solid #ffffff;
+    border-radius: 3px;
+}
